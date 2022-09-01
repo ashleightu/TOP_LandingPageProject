@@ -1,2 +1,2 @@
 # TOP_LandingPageProject
-Landing page project from The Odin Project
+This is my landing page project from The Odin Project.
